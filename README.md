@@ -15,5 +15,5 @@ Full example:
         time.sleep(5)
         print("Tony!")
 
-    if __name__ == "main":
+    if __name__ == "__main__":
         main()
