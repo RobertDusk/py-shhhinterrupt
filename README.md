@@ -1,6 +1,6 @@
 # shhhinterrupt
 
-Gracefully and silently handle keyboard interrupts.
+Gracefully and shhh... _(silently)_ handles keyboard interrupts.
 
 You can either pass a string to print, e.g. `@handle_interrupt("Please come again.")` or you can use the decorator without parenthesis to use the default message `@handle_interrupt`.
 
